@@ -68,7 +68,7 @@ La API proporciona una estructura escalable y reutilizable para aplicaciones Saa
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/yourusername/rbac-auth-backend.git
+git clone https://github.com/maurolores92/rbac-auth-system-backend.git
 ```
 
 ### Instalar dependencias
